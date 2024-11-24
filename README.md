@@ -18,5 +18,5 @@ I recommend the following:
 - 16 GB of RAM your OS can actually use
 
 1. Install (Python)[https://www.python.org].
-2. 
+2. Please avoid Notepad. It is pre-installed on Windows, but coding in there will be really hard. Instead, install a Python IDE or code editor of your choice. Python itself comes with IDLE if you want or need to save space.
 3. Install the modules using `pip install PySide6 pyinstaller pywin32`
