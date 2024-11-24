@@ -6,3 +6,4 @@
 
 - Tech-FZ: Make readme a little nicer.
 - Tech-FZ: Create changelog.
+- Tech-FZ: Create contributors file.
