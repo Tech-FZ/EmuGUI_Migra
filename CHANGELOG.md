@@ -8,4 +8,4 @@
 - Tech-FZ: Create changelog.
 - Tech-FZ: Create contributors file.
 - Tech-FZ: Prepare a Python file.
-- Tech-FZ: Prepare building documentation.
+- Tech-FZ: Prepare building documentation for Windows.
