@@ -17,6 +17,6 @@ I recommend the following:
 - A Quad-Core CPU, preferably with 8 threads
 - 16 GB of RAM your OS can actually use
 
-1. 
+1. Install (Python)[https://www.python.org].
 2. 
 3. Install the modules using `pip install PySide6 pyinstaller pywin32`
